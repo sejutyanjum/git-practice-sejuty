@@ -15,3 +15,5 @@ This project is created for practicing Git and GitHub operations including repos
 - Branch creation and merging
 - Basic calculator functions in Python
 - Multiple commits for version control
+
+Final review completed
